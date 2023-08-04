@@ -1,0 +1,2 @@
+# nanpure
+Game Nanpure (Sudoku)
