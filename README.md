@@ -19,7 +19,7 @@ Características principais:
 * Typescript para verificação de tipo estático!
 
 
----------- INSTRUÇÕES SOBRE O GAME ----------
+------------------------------- INSTRUÇÕES SOBRE O GAME ----------------------------------------------------
 
 O Nanpure (Sudoku) é um quebra-cabeça numérico que consiste em uma grade 9x9 dividida em nove subgrades 3x3, chamadas de regiões. O objetivo do jogo é preencher todas as células vazias da grade com números de 1 a 9, seguindo algumas regras simples:
 
