@@ -1,4 +1,5 @@
 # nanpure
+deploy   https://nanpure.vercel.app/
 
 [![Imagem](public/imagem.png)](public/imagem.png)
 
